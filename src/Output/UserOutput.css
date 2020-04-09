@@ -1,0 +1,8 @@
+.paragraph{
+    border: 3px solid blue;
+    width: 50%;
+    background-color: azure;
+    text-align: center;
+    margin: 20px;
+    display: inline-table;
+}
